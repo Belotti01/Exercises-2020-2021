@@ -1,0 +1,47 @@
+_________________________________________________
+|	Any line that doesn't start with '#', '?' 	|
+|	or '@' is considered a comment and will be	| 
+|	ignored.									|
+|												|
+|	'#' Precedes the category name				|
+|	'?' Precedes the question					|
+|	'@' Precedes the score, followed by ':'		|
+|		and the relative answer					|
+|												|
+|------------------[Example]--------------------|
+|												|
+|	# CategoryName								|
+|		? Question1								|
+|			@ 10: Answer1						|
+|			@ 0: Answer2						|
+|			@ -10: Answer3						|
+|		? Question2								|
+|			@ 10: Answer1						|
+|			@ 0: Answer2						|
+|			@ -10: Answer3						|
+|		? Question3								|
+|			@ 50: Answer1						|
+|			@ 100: Answer2						|
+|			@ -50: Answer3						|
+|			@ -50: Answer4						|
+|			@ 0: Answer5						|
+|	# Category2Name								|
+|	etc...etc..									|
+|												|
+|_______________________________________________|
+
+# Water Use
+	? My shower (or bath) on a typical day is: 
+		@ 0: No shower / no bath
+		@ 25: Short shower 3/­4 times a week
+		@ 50: Short shower once a day
+		@ 70: Long shower once a day
+		@ 90: More than one shower per day
+	? I flush the toilet:
+		@ 40: Every time I use it
+		@ 20: Sometimes
+# Test Category
+	? When I brush my teeth:
+		@ 40: I let the water run.
+		@ 20: We use water­saving toilets.
+		@ 20: We use low­flow showerheads.
