@@ -1,0 +1,16 @@
+C:\Users\Alessandro\source\repos\Forest\bin\Debug\net5.0\Forest.exe
+C:\Users\Alessandro\source\repos\Forest\bin\Debug\net5.0\Forest.deps.json
+C:\Users\Alessandro\source\repos\Forest\bin\Debug\net5.0\Forest.runtimeconfig.json
+C:\Users\Alessandro\source\repos\Forest\bin\Debug\net5.0\Forest.runtimeconfig.dev.json
+C:\Users\Alessandro\source\repos\Forest\bin\Debug\net5.0\Forest.dll
+C:\Users\Alessandro\source\repos\Forest\bin\Debug\net5.0\ref\Forest.dll
+C:\Users\Alessandro\source\repos\Forest\bin\Debug\net5.0\Forest.pdb
+C:\Users\Alessandro\source\repos\Forest\obj\Debug\net5.0\Forest.csprojAssemblyReference.cache
+C:\Users\Alessandro\source\repos\Forest\obj\Debug\net5.0\Forest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\source\repos\Forest\obj\Debug\net5.0\Forest.AssemblyInfoInputs.cache
+C:\Users\Alessandro\source\repos\Forest\obj\Debug\net5.0\Forest.AssemblyInfo.cs
+C:\Users\Alessandro\source\repos\Forest\obj\Debug\net5.0\Forest.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\Forest\obj\Debug\net5.0\Forest.dll
+C:\Users\Alessandro\source\repos\Forest\obj\Debug\net5.0\ref\Forest.dll
+C:\Users\Alessandro\source\repos\Forest\obj\Debug\net5.0\Forest.pdb
+C:\Users\Alessandro\source\repos\Forest\obj\Debug\net5.0\Forest.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0L9IoYuciM800FCjPhEfH/OrguPTpEtIPXzLZK/sRZFREHv4/Edb30XHmCFQ66JhtLzrgmjYd71rgwtCM8O/7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alessandro\\source\\repos\\Bookmarks\\Bookmarks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alessandro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Alessandro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
