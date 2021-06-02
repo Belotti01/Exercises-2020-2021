@@ -55,7 +55,7 @@ namespace Forest {
         }
 
         public int CountNodesButItsOneLine()
-            => 1 + (Left?.CountNodes() ?? 0) + (Right?.CountNodes() ?? 0);
+            => 1 + (Left?.CountNodesButItsOneLine() ?? 0) + (Right?.CountNodesButItsOneLine() ?? 0);
 
         public int CountLeaves() {
             int count = 0;
